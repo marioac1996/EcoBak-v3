@@ -1,0 +1,7 @@
+{
+  "name": "EcoBak",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
